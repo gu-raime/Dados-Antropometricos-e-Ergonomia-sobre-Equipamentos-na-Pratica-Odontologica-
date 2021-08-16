@@ -18,7 +18,7 @@ Esses são os dados obtidos pela pesquisa realizada. Os nomes dos participantes 
 Este é o relatório final gerado através de Overleaf. O trabalho segue como arquivo pdf e fica como objeto de estudo para ouytros colegas cirurgiões-dentistas que buscam mais informações a respeito da compatibilidade de seus equipamentos no que se refere à práticas clínicas em acordo com preceitos de ergonomia.
 
 ## Gráficos
-Aqui estão todos os plots gerados pelo código exposto em analise_estatistica.ipynb
+Nesta pasta estão todos os plots gerados pelo código exposto em analise_estatistica.ipynb
 
 
 
