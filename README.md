@@ -19,7 +19,7 @@ Este é o relatório final desta iniciação científica gerado através de Over
 ## Gráficos
 Nesta pasta estão todos os plots gerados pelo código exposto em analise_estatistica.ipynb
 
-## Autores
+# Autores
 Aluno do último ano de graduação do curso de Odontologia da Universidade de São Paulo orientado pela Profª Drª. Marina Clemente Conde discente da disciplina de Periodontia na Faculdade de Odontologia da Univerisdade de São Paulo.
 
 
