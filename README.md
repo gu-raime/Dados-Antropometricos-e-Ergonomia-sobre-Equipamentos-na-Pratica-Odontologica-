@@ -2,6 +2,8 @@
 
 Este trabalho reuniu informações a respeito dos dados antropométricos de estudantes do último ano da FOUSP no ano de 2020 e cruzou essas informações com um banco de dados levantados por _Araki LM, Conde MC_ acerca das dimensões dos equipamentos odontológicos nacionais e importados disponíveis no mercado brasileiro. 
 
+- [Apresentação na XXV Reunião de Pesquisa XXII Seminário de Iniciação Científica da Faculdade de Odontologia da USP](https://www.youtube.com/watch?v=mTkLtrePmRs)
+
 ## analise_estatistica.ipynb
 Este foi o código utilizado para a manipulação dos dados levantados. A linguagem utilizada na ocasião foi PYTHON através do Júpiter Notebook. As biubliootecas utilizadas foram PANDAS e MATPLOTLIB. 
 
