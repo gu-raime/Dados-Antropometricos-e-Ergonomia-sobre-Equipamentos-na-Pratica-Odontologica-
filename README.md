@@ -8,7 +8,7 @@ Este trabalho reuniu informações a respeito dos dados antropométricos de estu
 ---
 
 ## analise_estatistica.ipynb
-Este foi o código utilizado para a manipulação dos dados levantados. A linguagem utilizada na ocasião foi PYTHON através do Júpiter Notebook. As biubliootecas utilizadas foram PANDAS e MATPLOTLIB. 
+Este foi o código utilizado para a manipulação dos dados levantados. A linguagem utilizada na ocasião foi PYTHON através do Júpiter Notebook. As bibliotecas utilizadas foram PANDAS e MATPLOTLIB. 
 
 ## amostra_nao_identificada.csv
 Esses são os dados obtidos pela pesquisa realizada. Os nomes dos participantes voluntários foram preservados. O trabalho foi desenvolvido com o Comitê de Ética da Faculdade de Odontologia da universidade de São Paulo e todos os Termos de Consentimento Livre e Esclarecido dos participantes foi preenchido. Nenhum estudante foi identificado. Este repositório serve para estudo.
