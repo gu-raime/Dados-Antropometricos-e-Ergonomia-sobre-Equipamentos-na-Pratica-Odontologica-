@@ -5,7 +5,6 @@ Este trabalho reuniu informações a respeito dos dados antropométricos de estu
 - [Apresentação na XXV Reunião de Pesquisa XXII Seminário de Iniciação Científica da Faculdade de Odontologia da USP](https://www.youtube.com/watch?v=mTkLtrePmRs)
 
 ### Descrição de navegação dos arquivos: 
----
 
 ## analise_estatistica.ipynb
 Este foi o código utilizado para a manipulação dos dados levantados. A linguagem utilizada na ocasião foi PYTHON através do Júpiter Notebook. As bibliotecas utilizadas foram PANDAS e MATPLOTLIB. 
