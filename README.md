@@ -13,9 +13,9 @@ Este foi o código utilizado para a manipulação dos dados levantados. A lingua
 ## amostra_nao_identificada.csv
 Esses são os dados obtidos pela pesquisa realizada. Os nomes dos participantes voluntários foram preservados. O trabalho foi desenvolvido com o Comitê de Ética da Faculdade de Odontologia da Universidade de São Paulo e todos os Termos de Consentimento Livre e Esclarecido dos participantes foram preenchidos. Nenhum estudante foi identificado. Este repositório serve para estudo.
 
-## relatorio final da iniciação científica.pdf
+## relatorio final.pdf
 
-Este é o relatório final gerado através de Overleaf. O trabalho segue como arquivo pdf e fica como objeto de estudo para outros colegas cirurgiões-dentistas que buscam mais informações a respeito da compatibilidade de seus equipamentos no que se refere à práticas clínicas em acordo com preceitos de ergonomia.
+Este é o relatório final desta iniciação científica gerado através de Overleaf. O trabalho segue como arquivo pdf e fica como objeto de estudo para outros colegas cirurgiões-dentistas que buscam mais informações a respeito da compatibilidade de seus equipamentos no que se refere à práticas clínicas em acordo com preceitos de ergonomia.
 
 ## Gráficos
 Nesta pasta estão todos os plots gerados pelo código exposto em analise_estatistica.ipynb
